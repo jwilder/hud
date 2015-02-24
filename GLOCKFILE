@@ -1,0 +1,5 @@
+github.com/Sirupsen/logrus 6dcec6ed3bdf8559ac1696bc32d7dbd9aadaf5b6
+github.com/docker/docker ae9001fbdc251a455a7e59475b2a40b54d2fbd96
+github.com/fsouza/go-dockerclient 59b423db81e5894ca7460652f1b206fc72d85750
+github.com/influxdb/influxdb d0ff3174f6fc34ba5781ca3f43613c7e0cb896bc
+github.com/shirou/gopsutil 90c6c3ef3ee32b95b5b51c7540e80fb0e0580159
